@@ -1,0 +1,69 @@
+/* FlareHub Website CSS */
+
+body {
+    background-color: #FFFFFF;
+}
+
+#header {
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+#logotext:link, #logotext:visited {
+    font-size: 60px;
+    font-family: "Impact", "Arial Black";
+    letter-spacing: 4px;
+    color: #667A8E;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#logotext:hover, #logotext:active {
+    color: #A3AFBB;
+}
+
+nav {
+    display: inline;
+}
+
+.navitem:link, .navitem:visited {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color:#FFAD5C;
+    width: 120px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navitem:hover, .navitem:active {
+    background-color: #FFCC99;
+}
+
+#body {
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: "Cooper Black", "Arial Black";
+    color: #667A8E;
+}
+
+#content1 {
+    font-size: 22px;
+    font-family: "Cooper Black", "Arial Black";
+    color: #667A8E;
+}
+
+#textlink1, #textlink1:hover, #textlink1:click, #textlink1:active, #textlink1:visited {
+    font-size: 22px;
+    font-family: "Cooper Black", "Arial Black";
+    color: #667A8E;
+    text-decoration: none;
+}
